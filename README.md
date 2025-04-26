@@ -1,2 +1,3 @@
 # MyWebsite
 Where I will be hosting my personal website about me.
+Hopefully I'll add this to my own domain at some point so I don't have to dela with GitHub pages...
