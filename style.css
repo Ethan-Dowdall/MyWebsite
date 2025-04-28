@@ -1,7 +1,6 @@
 /* General Reset */
 * {
-    text-align: center;
-    font-size: 11pt;
+    display: grid;
 }
 
 
@@ -13,6 +12,7 @@ html {
 
 
 body {
+    text-align: center;
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
