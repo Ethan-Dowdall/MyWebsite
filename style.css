@@ -1,12 +1,17 @@
 /* General Reset */
-html {
+* {
     text-align: center;
+    font-size: 11pt;
+}
+
+
+html {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Body Styling */
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -14,12 +19,4 @@ body {
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
-}
-
-/* Header Styling */
-.mainTitle {
-    background: #35424a;
-    color: #ffffff;
-    padding: 20px 0;
-    text-align: center;
 }
